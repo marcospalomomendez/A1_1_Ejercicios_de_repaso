@@ -1,0 +1,14 @@
+C:\Users\marco\source\repos\Ejercicio_8\bin\Debug\net8.0\Ejercicio_8.exe
+C:\Users\marco\source\repos\Ejercicio_8\bin\Debug\net8.0\Ejercicio_8.deps.json
+C:\Users\marco\source\repos\Ejercicio_8\bin\Debug\net8.0\Ejercicio_8.runtimeconfig.json
+C:\Users\marco\source\repos\Ejercicio_8\bin\Debug\net8.0\Ejercicio_8.dll
+C:\Users\marco\source\repos\Ejercicio_8\bin\Debug\net8.0\Ejercicio_8.pdb
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.AssemblyInfo.cs
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.dll
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\refint\Ejercicio_8.dll
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.pdb
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\Ejercicio_8.genruntimeconfig.cache
+C:\Users\marco\source\repos\Ejercicio_8\obj\Debug\net8.0\ref\Ejercicio_8.dll
