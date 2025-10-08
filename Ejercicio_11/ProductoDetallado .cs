@@ -10,7 +10,7 @@ class ProductoDetallado : Producto
     public ProductoDetallado(string nombre, string descripcion, double precio)
         : base(nombre, descripcion, precio) { }
 
-    // Propiedad indexada SIN usar operador ternario
+    // Propiedad indexada
     public string this[string clave]
     {
         get
