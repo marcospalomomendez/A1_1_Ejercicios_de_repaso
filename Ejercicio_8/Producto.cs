@@ -13,7 +13,7 @@
         _precio = precio;
     }
 
-    // Propiedades (añadimos Get/Set sin romper el código anterior)
+    // Propiedades
     public string Nombre
     {
         get { return _nombre; }
